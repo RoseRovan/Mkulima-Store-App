@@ -5,8 +5,9 @@ const equipmentElemDescription = document.getElementById("equipment-description"
 document.addEventListener("DOMContentLoaded", () => {
     getEquipmentData();
       });
-      function getBeerData() {
-        fetch("http://localhost:3000")
+      //fetch function
+      function getequipmentData() {
+        fetch("http://localhost:3000/equipments")
           .then((response) => response.json())
-          .then((data) => beerData(data));
+          .then((data) => equipmentData(data));
       }

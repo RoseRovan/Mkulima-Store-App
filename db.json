@@ -1,53 +1,57 @@
 {
-    "equpments": [
+    "equipments": [
       {
         "id": 1,
         "name": "Harvester",
+        "Hire price per day": "50$ USD",
         "description": "combined harvester,can harvest all crops.",
         "image_url": "https://images.pexels.com/photos/2253264/pexels-photo-2253264.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "reviews": [
-          "It's flat! Just the way I like it!!",
-          "Is this the real beer, is this just fantasy?",
-          "I've always hated bubbles going up my nose, so this is absolutely delightful.",
-          "Flat straight out of the bottle! No more waiting for the fizziness to subside. Thank you FlattaBeer!! I love you!!!"
+        "ratings": [
+          "The harvester works perfectly and was in good condition when I received it", 
+          "It can't harvest tubers yet stated as combined harvester"
         ]
       },
       {
         "id": 2,
         "name": "MouldBoard plough",
+        "Hire price per day": "50$ USD",
         "description": "suitable for cultivating land with no hard stones",
         "image_url": "https://images.pexels.com/photos/11996938/pexels-photo-11996938.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "reviews": [
-          "Spicy crab cakes, say what?!",
-          "My mum hates it"
+        "ratings": [
+          "My garden has light soil and the machine works perfectly",
+          "Makes my work easier"
         ]
       },
       {
         "id": 3,
-        "name": "Avery Brown Dredge",
-        "description": "We let it sit out in the open air for 12 hours for perfect flatness and add brown sauce for more brownness.",
-        "image_url": "https://images.punkapi.com/v2/5.png",
+        "name": "Planter",
+        "Hire price per day": "45$ USD",
+        "description": "Best for planting all type of crops in a large scale farm.",
+        "image_url": "https://images.pexels.com/photos/1595104/pexels-photo-1595104.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "reviews": [
-          "Tastes like a weird squid"
+          "Saved my normal labour cost, thanks"
         ]
       },
       {
         "id": 4,
-        "name": "Electric India",
-        "description": "Tastes like memories",
-        "image_url": "https://images.punkapi.com/v2/6.png",
+        "name": "Disc plough",
+        "Hire price per day": "65$ USD",
+        "description": "Suitable where there is hard stones and heavy soils. the disc can rollover the obstacles",
+        "image_url": "https://media.istockphoto.com/photos/working-parts-of-new-agricultural-disc-harrow-plow-harrow-cultivator-picture-id1176419370?b=1&k=20&m=1176419370&s=612x612&w=0&h=fFu-2DUKSeqsjlAD7VADAU9b6jv7Vt12XNoNzL6hbto=",
         "reviews": [
-          "I remember nothing"
+          "Kindly consider offering discounts when renting for several days",
+          "your sales person was not polite"
         ]
       },
       {
         "id": 5,
-        "name": "AB:12",
-        "description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local.",
-        "image_url": "https://images.punkapi.com/v2/7.png",
+        "name": "Rollers",
+        "Hire price per day": "55$ USD",
+        "description": "suitable for dairy farming. used to pack hay and silage",
+        "image_url": "https://images.pexels.com/photos/878297/pexels-photo-878297.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "reviews": [
-          "I lost my pet squirrel to this beer",
-          "Where's the beef?!"
+          "I haven't tried it yet but looks good",
+          "awesome!"
         ]
       },
       {
@@ -55,7 +59,7 @@
         "name": "AB:07",
         "description": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol, producing a beer capable of holding back the Scottish chill.",
         "image_url": "https://images.punkapi.com/v2/9.png",
-        "reviews": [
+        "ratings": [
           "I like to drink this while watching TV",
           "A beer like no other, best served hot"
         ]
@@ -65,7 +69,7 @@
         "name": "Bramling X",
         "description": "Good old Bramling Cross is elegant, refined, assured, (boring) and understated. Understated that is unless you hop the living daylights out of a beer with it. This is Bramling Cross re-invented and re-imagined, and shows just what can be done with English hops if you use enough of them. Poor Bramling Cross normally gets lost in a woeful stream of conformist brown ales made by sleepy cask ale brewers. But not anymore. This beer shows that British hops do have some soul, and is a fruity riot of blackberries, pears, and plums. Reminds me of the bramble, apple and ginger jam my grandmother used to make.",
         "image_url": "https://images.punkapi.com/v2/10.png",
-        "reviews": [
+        "ratings": [
           "Like a river of joy"
         ]
       },
@@ -74,7 +78,7 @@
         "name": "Misspent Youth",
         "description": "The brainchild of our small batch brewer, George Woods. A dangerously drinkable milk sugar- infused Scotch Ale.",
         "image_url": "https://images.punkapi.com/v2/keg.png",
-        "reviews": [
+        "ratings": [
           "Woe is me, how I long for the days of yore",
           "Reminds me of that time I wasted all of my time",
           "It's a flavor that makes you wonder: 'Who is the boss: Angela or Tony?'"

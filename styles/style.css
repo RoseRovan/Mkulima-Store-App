@@ -51,16 +51,16 @@ font-family: 'Poppins', sans-serif;
     width: 600px;
   }
   
-  .beer-details h2 {
+  .equipment-details h2 {
     font-size: 32px;
     text-align: center;
   }
   
-  .beer-details h3 {
+  .equipment-details h3 {
     font-size: 24px;
   }
   
-  .beer-details img {
+  .equipment-details img {
     display: block;
     height: 200px;
     margin: 0 auto 25px auto;
@@ -92,7 +92,7 @@ font-family: 'Poppins', sans-serif;
     cursor: pointer;
   }
   
-  #review-list li {
+  #rating-list li {
     background-color: #fff3a9;
     border-radius: 5px;
     padding: 20px;

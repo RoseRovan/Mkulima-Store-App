@@ -8,7 +8,9 @@ This is an app which farmers use to hire farm machineries such as tractors.
 
 ## Installation Process
 Click on the link provided bellow to view the site.https://github.com/RoseRovan/easy-farming
+
 run; $ json-server --watch db.json
+
 Test your server by visiting this route in the browser:
 
 http://localhost:3000/equipments

@@ -28,7 +28,7 @@
         "Hire price per day": "45$ USD",
         "description": "Best for planting all type of crops in a large scale farm.",
         "image_url": "https://images.pexels.com/photos/1595104/pexels-photo-1595104.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "reviews": [
+        "ratings": [
           "Saved my normal labour cost, thanks"
         ]
       },
@@ -38,7 +38,7 @@
         "Hire price per day": "65$ USD",
         "description": "Suitable where there is hard stones and heavy soils. the disc can rollover the obstacles",
         "image_url": "https://media.istockphoto.com/photos/working-parts-of-new-agricultural-disc-harrow-plow-harrow-cultivator-picture-id1176419370?b=1&k=20&m=1176419370&s=612x612&w=0&h=fFu-2DUKSeqsjlAD7VADAU9b6jv7Vt12XNoNzL6hbto=",
-        "reviews": [
+        "ratings": [
           "Kindly consider offering discounts when renting for several days",
           "your sales person was not polite"
         ]
@@ -49,7 +49,7 @@
         "Hire price per day": "55$ USD",
         "description": "suitable for dairy farming. used to pack hay and silage",
         "image_url": "https://images.pexels.com/photos/878297/pexels-photo-878297.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "reviews": [
+        "ratings": [
           "I haven't tried it yet but looks good",
           "awesome!"
         ]
@@ -92,7 +92,7 @@
         "Hire price per day": "55$ USD",
         "description": "  suitable for harvesting tubers such as cassava, potatoes, carrots and sweet-potatoes.",
         "image_url": "https://media.istockphoto.com/photos/machine-for-harvesting-of-beet-picture-id1142787814?k=20&m=1142787814&s=612x612&w=0&h=YzmA_zEF2IgVkV0MpiA5NkyRPbbsz-_QZMTjUjf2omQ=",
-        "reviews": [
+        "ratings": [
           "I loved your plant operator"
         ]
       },
@@ -102,7 +102,7 @@
         "Hire price per day": "40$ USD",
         "description": "Suitable for secondary and tertiary cultivation especially when planting tiny seeds.",
         "image_url": "https://images.pexels.com/photos/8343969/pexels-photo-8343969.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "reviews": [
+        "ratings": [
           "was okay",
           "Arrived late hence couldn't achieve timely planting"
         ]

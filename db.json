@@ -56,9 +56,9 @@
       },
       {
         "id": 6,
-        "name": "AB:07",
-        "description": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol, producing a beer capable of holding back the Scottish chill.",
-        "image_url": "https://images.punkapi.com/v2/9.png",
+        "name": "Sprayer",
+        "description": "Best for foliar fertilizer application and pest control ",
+        "image_url": "https://media.istockphoto.com/photos/tractor-working-in-field-of-wheat-picture-id155415266?b=1&k=20&m=155415266&s=612x612&w=0&h=zIDd8ZNS6It-Viptadyy7RU9K6nN82JE5GavBRgOD5E=",
         "ratings": [
           "I like to drink this while watching TV",
           "A beer like no other, best served hot"
@@ -66,41 +66,45 @@
       },
       {
         "id": 7,
-        "name": "Bramling X",
-        "description": "Good old Bramling Cross is elegant, refined, assured, (boring) and understated. Understated that is unless you hop the living daylights out of a beer with it. This is Bramling Cross re-invented and re-imagined, and shows just what can be done with English hops if you use enough of them. Poor Bramling Cross normally gets lost in a woeful stream of conformist brown ales made by sleepy cask ale brewers. But not anymore. This beer shows that British hops do have some soul, and is a fruity riot of blackberries, pears, and plums. Reminds me of the bramble, apple and ginger jam my grandmother used to make.",
-        "image_url": "https://images.punkapi.com/v2/10.png",
+        "name": "Drone",
+        "Hire price per day": "90$ USD",
+        "description": "Suitable for foliar fertilizer application and spraying for pests in large plantations",
+        "image_url": "https://media.istockphoto.com/photos/drone-flying-over-field-at-sunset-picture-id1094620200?b=1&k=20&m=1094620200&s=612x612&w=0&h=1utXpDfdKagRUZ-fi0aXp8Txf-ADveyZMIgB_4KlMFY=",
         "ratings": [
-          "Like a river of joy"
+          "expensive though works miracles"
         ]
       },
       {
         "id": 8,
-        "name": "Misspent Youth",
-        "description": "The brainchild of our small batch brewer, George Woods. A dangerously drinkable milk sugar- infused Scotch Ale.",
-        "image_url": "https://images.punkapi.com/v2/keg.png",
+        "name": "cultivators",
+        "Hire price per day": "15$ USD",
+        "description": "Best for land preparations such as tilling and all primary cultivations",
+        "image_url": "https://media.istockphoto.com/photos/garden-tiller-to-work-picture-id178887371?b=1&k=20&m=178887371&s=612x612&w=0&h=178gCwXRfZbdbLoM20H-bXtjjqg60tW9IdO8PLQ7Dfs=",
         "ratings": [
-          "Woe is me, how I long for the days of yore",
-          "Reminds me of that time I wasted all of my time",
-          "It's a flavor that makes you wonder: 'Who is the boss: Angela or Tony?'"
+          "goog",
+          "It was good",
+          "I loved the sevices"
         ]
       },
       {
         "id": 9,
-        "name": "Arcade Nation",
-        "description": "Running the knife-edge between an India Pale Ale and a Stout, this particular style is one we truly love. Black IPAs are a great showcase for the skill of our brew team, balancing so many complex and twisting flavours in the same moment. The citrus, mango and pine from the hops – three of our all-time favourites – play off against the roasty dryness from the malt bill at each and every turn.",
-        "image_url": "https://images.punkapi.com/v2/12.png",
+        "name": "Tuber-harvester",
+        "Hire price per day": "55$ USD",
+        "description": "  suitable for harvesting tubers such as cassava, potatoes, carrots and sweet-potatoes.",
+        "image_url": "https://media.istockphoto.com/photos/machine-for-harvesting-of-beet-picture-id1142787814?k=20&m=1142787814&s=612x612&w=0&h=YzmA_zEF2IgVkV0MpiA5NkyRPbbsz-_QZMTjUjf2omQ=",
         "reviews": [
-          "Pew pew"
+          "I loved your plant operator"
         ]
       },
       {
         "id": 10,
-        "name": "Movember",
-        "description": "A deliciously robust, black malted beer with a decadent dark, dry cocoa flavour that provides an enticing backdrop to the Cascade hops.",
-        "image_url": "https://images.punkapi.com/v2/13.png",
+        "name": "Harrows",
+        "Hire price per day": "40$ USD",
+        "description": "Suitable for secondary and tertiary cultivation especially when planting tiny seeds.",
+        "image_url": "https://images.pexels.com/photos/8343969/pexels-photo-8343969.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "reviews": [
-          "Like autumn leaves readying themselves for the winter sun",
-          "Beep beep, you're having a beer"
+          "was okay",
+          "Arrived late hence couldn't achieve timely planting"
         ]
       }
     ]
